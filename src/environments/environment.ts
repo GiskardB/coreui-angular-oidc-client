@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  stsServer: "https://dev-571327.okta.com/oauth2/default",
-  clientId: "0oaeftb18rDmnkuPz4x6"
+  stsServer: {STATS_SERVER},
+  clientId: {CLIENT_ID}
 };
 
 /*
