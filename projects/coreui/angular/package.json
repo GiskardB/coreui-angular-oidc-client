@@ -1,0 +1,33 @@
+{
+  "name": "@coreui/angular",
+  "version": "2.9.2",
+  "description": "CoreUI Angular Bootstrap 4 components",
+  "license": "MIT",
+  "homepage": "https://coreui.io/angular",
+  "author": {
+    "name": "Łukasz Holeczek",
+    "url": "http://holeczek.pl",
+    "github": "https://github.com/mrholek",
+    "twitter": "https://twitter.com/lukaszholeczek"
+  },
+  "contributors": [
+    {
+      "name": "Andrzej Kopański",
+      "url": "https://github.com/xidedix"
+    }
+  ],
+  "peerDependencies": {
+    "@angular/common": "^9.1.1",
+    "@angular/core": "^9.1.1",
+    "@angular/router": "^9.1.1",
+    "tslib": "^1.11.1",
+    "@coreui/coreui": "^2.1.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coreui/coreui-angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coreui/coreui-angular/issues"
+  }
+}
