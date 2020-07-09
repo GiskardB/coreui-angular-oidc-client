@@ -13,6 +13,11 @@ To use the repository:
 1. Login on page of your Identity server
 
 
+## Example
+The application is supposed to look somewhat like this:
+
+![Use Case](https://github.com/GiskardB/coreui-angular-oidc-client/tree/master/gif/example.gif)
+
 ## How to integrate OIDC Client
 
 Install the library angular-auth-oidc-client
