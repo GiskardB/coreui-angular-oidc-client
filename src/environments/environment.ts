@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  stsServer: "https://dev-571327.okta.com/oauth2/default",
+  clientId: "0oaeftb18rDmnkuPz4x6"
 };
 
 /*
