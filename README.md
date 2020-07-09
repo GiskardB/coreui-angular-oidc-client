@@ -16,7 +16,7 @@ To use the repository:
 ## Example
 The application is supposed to look somewhat like this:
 
-![Use Case](https://github.com/GiskardB/coreui-angular-oidc-client/tree/master/gif/example.gif)
+![Use Case](gif/example.gif)
 
 ## How to integrate OIDC Client
 
